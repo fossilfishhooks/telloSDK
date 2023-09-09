@@ -1,4 +1,4 @@
-#
+# hi
 # Tello Python3 Control Demo modified my Arin Jander
 #copyright (c) 2023
 #
